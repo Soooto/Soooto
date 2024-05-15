@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá Mundo ! 🌟
 
-<!--
-**Soooto/Soooto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o Vinicius Sotto! Um estudante em programação.
 
-Here are some ideas to get you started:
+- Estou estudando pelo [Alura](https://www.alura.com), com ajuda de um projeto do governo.
+- Estou desenvolvendo a linguagem javascript nesse projeto e aprendendo lógica de programação.
+- Utilizarei este sistema para compartilhar meu portifólio!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Entre em contato comigo ! 📬
+
+-  📱 [Instagram](https://www.instagram.com/sotto_s2/) 
+
+-  🧑‍💼 [Linkedin](https://www.linkedin.com/in/sooto) 
+
+-  📧 mparesx66@gmail.com 
+
+
+![](https://media.tenor.com/Hpz52YN3wOsAAAAi/hurra.gif)
