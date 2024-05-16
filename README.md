@@ -15,4 +15,4 @@ Sou o Vinicius Sotto! Um estudante em programação.
 -  📧 mparesx66@gmail.com 
 
 
-![](https://media.tenor.com/Hpz52YN3wOsAAAAi/hurra.gif)
+![](https://media1.tenor.com/m/ehniECQ5Hz0AAAAd/ricardo-ohara-ohara.gif)
