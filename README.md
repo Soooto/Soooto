@@ -10,7 +10,7 @@ Sou o Vinicius Sotto! Um estudante em programação.
 
 -  📱 [Instagram](https://www.instagram.com/sotto_s2/) 
 
--  🧑‍💼 [Linkedin](https://www.linkedin.com/in/sooto) 
+-  👨‍💻 [Linkedin](https://www.linkedin.com/in/sooto) 
 
 -  📧 mparesx66@gmail.com 
 
